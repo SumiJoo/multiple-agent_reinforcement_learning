@@ -1,2 +1,1 @@
-the implementation of Q-learning in cliffwalking environment.
-to train the model ， python train.py
+the implementation of some algorithms in RL and MARL
